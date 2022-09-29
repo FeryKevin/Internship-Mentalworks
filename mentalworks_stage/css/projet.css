@@ -1,0 +1,143 @@
+body{
+    font-family: Arial;
+    overflow-x: hidden;
+    padding-bottom: 100px;
+}
+h1{
+    margin-left: 14%;
+    font-size: 35px;
+    margin-top: 50px;
+}
+h2{
+    margin-left: 14%;
+    font-size: 22px;
+    margin-top: 25px;
+}
+h3{
+    color: blue;
+    margin-left: 14%;
+    font-size: 19px;
+    margin-top: 25px;
+}
+h4{
+    color: blue;
+    font-size: 19px;
+    margin-top: 25px;
+}
+a{
+    font-size: 15px;
+
+}
+/*navbar*/
+nav{
+    background-color: #0f4158;
+}
+nav{
+    font-family:sans-serif;
+    margin-top: 0px;
+    margin-left: 0px;
+    color: white;
+    
+}
+.navbar-nav .ml-auto{
+    color: black;
+    font-weight: bold;
+    padding-right: 150px;
+}
+img{
+    width: 290px;
+    margin-left: 212px;
+    margin-bottom: 15px;
+}
+#navbarNavAltMarkup{
+    margin-right: 170px;
+    font-size: 19px;
+    
+}
+.cta1{
+    margin-left: 100px;
+    margin-top: 8px;
+    color: white;
+}
+.cta2{
+    margin-left: 1px;
+    margin-right: 1px;
+    margin-top: 3px;
+}  
+/*Projet*/
+
+.textbox1{
+    margin-left: 230px;
+    margin-top: 50px;
+    font-size: 20px;
+}
+.textbox2{
+    margin-left: 230px;
+    font-size: 20px;
+}
+.textbox3{
+    margin-left: 230px;
+    margin-top: 40px;
+    font-size: 20px;
+}
+.textbox4{
+    margin-top: 50px;
+    font-size: 20px;
+}
+.textbox5{
+    font-size: 20px;
+    margin-left: 5px;
+}
+.box0{
+    margin-top: 15px;
+    border: 1px solid #b4c6cf;
+    border-radius: 2px;
+    padding-right: 50px;
+}
+textarea{
+    width: 90%;
+    margin-left: -40%;
+    padding-bottom: 45%;
+}
+.note{
+    margin-left: -40%;
+}
+select{
+    padding-left: 200px;
+    padding-bottom: 10px;
+}
+#btn-save{
+    background-color: #0f4158;
+    border-radius: 5px;
+    padding: 3px 9px 3px 9px;
+    padding-left: 45px;
+    padding-right: 45px;
+    float: right;
+    margin-right: 245px;
+    margin-top: 70px;
+    color: white;
+    margin-bottom: 100px;
+}
+/*Bonus*/
+.container-fluid{
+    background-color: #e7ebf0;
+    border-radius: 20px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    margin-left: 18%;
+}
+.box1{
+
+    margin-top: 50px;
+    font-size: 20px;
+    margin-right: 100px;
+}
+.box2{
+
+    font-size: 20px;
+}
+.box3{
+    margin-left: 230px;
+    margin-top: 40px;
+    font-size: 20px;
+}
